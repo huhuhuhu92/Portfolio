@@ -1,0 +1,6 @@
+exp_id,threshold_version,threshold_value,eval_date,precision,recall,f1,alert_volume,false_alarm_count,estimated_review_cost,notes
+EXP0001,v060,0.6,2026-02-01,0.6168,0.8654,0.7203,3920,1502,264320,precision-priority evaluation in urban fireworks regulation
+EXP0002,v070,0.7,2026-02-01,0.7635,0.8654,0.8113,3167,749,198056,precision-priority evaluation in urban fireworks regulation
+EXP0003,v080,0.8,2026-02-01,0.8191,0.8654,0.8416,2952,534,179136,precision-priority evaluation in urban fireworks regulation
+EXP0004,v085,0.85,2026-02-01,0.9355,0.3268,0.4844,976,63,577148,precision-priority evaluation in urban fireworks regulation
+EXP0005,v090,0.9,2026-02-01,0.9586,0.1739,0.2945,507,21,698136,precision-priority evaluation in urban fireworks regulation
